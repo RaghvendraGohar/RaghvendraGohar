@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaghvendraGohar
 - 👀 I’m interested in software devlopment
-- 🌱 I’m currently learning in NITW
-- 💞️ I’m looking to collaborate on C++ projects
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me raghvendragoahr@gmail.com
 
 <!---
